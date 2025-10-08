@@ -130,8 +130,8 @@ const Details = () => {
           The ferry journey is about 40 minutes long from Hillarys.
         </p>
         <p>
-          Those leaving from Hillarys can use the booking code{" "}
-          <b>ANDERSONWEDDING</b> for discounted fares when booking with{" "}
+          Those leaving from Hillarys can use the booking code <b>ANDERSON</b>{" "}
+          for discounted fares when booking with{" "}
           <a href="https://www.rottnestfastferries.com.au/">
             Rottnest Fast Ferries
           </a>
